@@ -1,0 +1,8 @@
+{
+	"dependencies": {
+		"mongolayer": "1.5.10"
+	},
+	"scripts": {
+		"start": "node src/test.js"
+	}
+}
